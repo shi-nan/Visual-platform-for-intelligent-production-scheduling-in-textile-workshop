@@ -1,0 +1,4 @@
+C:\ruyi_env\jeecg_boot\jeecg-boot\jeecg-boot-base\jeecg-boot-base-api\jeecg-system-cloud-api\src\main\java\org\jeecg\common\system\api\ISysBaseAPI.java
+C:\ruyi_env\jeecg_boot\jeecg-boot\jeecg-boot-base\jeecg-boot-base-api\jeecg-system-cloud-api\src\main\java\org\jeecg\config\FeignConfig.java
+C:\ruyi_env\jeecg_boot\jeecg-boot\jeecg-boot-base\jeecg-boot-base-api\jeecg-system-cloud-api\src\main\java\org\jeecg\common\system\api\factory\SysBaseAPIFallbackFactory.java
+C:\ruyi_env\jeecg_boot\jeecg-boot\jeecg-boot-base\jeecg-boot-base-api\jeecg-system-cloud-api\src\main\java\org\jeecg\common\system\api\fallback\SysBaseAPIFallback.java

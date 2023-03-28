@@ -1,0 +1,5 @@
+org\jeecg\common\base\BaseMap.class
+org\jeecg\common\config\CommonConfig.class
+org\jeecg\common\constant\GlobalConstants.class
+org\jeecg\common\util\SpringContextHolder.class
+org\jeecg\common\annotation\RabbitComponent.class
